@@ -1,0 +1,17 @@
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\bin\Debug\net8.0\UnitOfWork.Infrastructure.deps.json
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\bin\Debug\net8.0\UnitOfWork.Infrastructure.runtimeconfig.json
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\bin\Debug\net8.0\UnitOfWork.Infrastructure.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\bin\Debug\net8.0\UnitOfWork.Infrastructure.pdb
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\bin\Debug\net8.0\UnitOfWork.Domain.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\bin\Debug\net8.0\UnitOfWork.Domain.pdb
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.AssemblyInfo.cs
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWo.044CFE68.Up2Date
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\refint\UnitOfWork.Infrastructure.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.pdb
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\UnitOfWork.Infrastructure.genruntimeconfig.cache
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Infrastructure\obj\Debug\net8.0\ref\UnitOfWork.Infrastructure.dll

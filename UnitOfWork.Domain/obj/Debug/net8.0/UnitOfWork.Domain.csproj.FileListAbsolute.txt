@@ -1,0 +1,11 @@
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\bin\Debug\net8.0\UnitOfWork.Domain.deps.json
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\bin\Debug\net8.0\UnitOfWork.Domain.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\bin\Debug\net8.0\UnitOfWork.Domain.pdb
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\UnitOfWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\UnitOfWork.Domain.AssemblyInfoInputs.cache
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\UnitOfWork.Domain.AssemblyInfo.cs
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\UnitOfWork.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\UnitOfWork.Domain.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\refint\UnitOfWork.Domain.dll
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\UnitOfWork.Domain.pdb
+C:\Estudos - C#\Exercicios\UnitOfWork.API\UnitOfWork.Domain\obj\Debug\net8.0\ref\UnitOfWork.Domain.dll
